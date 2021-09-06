@@ -1,0 +1,92 @@
+AppStorageConnectionString:DefaultEndpointsProtocol=https;AccountName=kcsmmcsuatothersscussa;AccountKey=HO9vRldXXSrk3YC2t8xoMgHJ0oLsE/i9XbbaJYkabQ+OILTa622aAcQmv1Ggd1PEUovmJIi+9ERmvIoc15MPCQ==;EndpointSuffix=core.windows.net
+
+AppStorageLogConnectionStringKeyName:DefaultEndpointsProtocol=https;AccountName=kcsmmcsuatothersncussa;AccountKey=X8ZC7Cw6AdSgfhxsPAEtaZFKZBdIh+L40Q3oLduf0Z6PE3ha4S7ers0pqYqukFWJEob/xdx1plFpsYORtbQT8Q==;EndpointSuffix=core.windows.net
+
+																																										  
+
+ConnectionString:Server=tcp:kcs-mmcs-uat-ots-kcsus-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-OTS-KCSUS-STR;Persist Security Info=False;User ID=kcsmmcsotsuatadmin;Password=dft$yd%bWedr#$72;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+DataKey:fvtQhQcKZVWMCXRLbqmRgfEBXYWshTEP
+
+DefaultKey:fvtQhQcKZVWMCXRLbqmRgfEBXYWshTEP
+
+DefaultPlainKey:fvtQhQcKZVWMCXRLbqmRgfEBXYWshTEP
+
+ELASTIC-CLUSTER-HOST:http://10.1.215.9:9200
+
+EncryptionThumbprint:348507531E77B82F55FB49835FA364BA1A97297E
+
+IdentityServer:fvtQhQcKZVWMCXRLbqmRgfEBXYWshTEP
+
+IdentityServerConnectionString:Server=tcp:kcs-mmcs-uat-idt-failover-gp.database.windows.net,1433;Initial Catalog=KCSR-MMCS-UAT-IDT-STR;Persist Security Info=False;User ID=kcsmmcsuatidtadmin;Password=Aght1%yrfnh&34$;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=60;
+
+ISS-ConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsus-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCSUS-TRANSACTION-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=q6jlbgnZxG1QsKVNxwmw;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+ISS-EMS-KCSMConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsm-failover-gp.database.windows.net.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCSM-EMS-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+ISS-EMS-KCSRConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsus-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCSUS-EMS-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=q6jlbgnZxG1QsKVNxwmw;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+ISS-KCSM-AzureWebJobsStorage:DefaultEndpointsProtocol=https;AccountName=kcsmmcsuatissmxsscussa;AccountKey=A6pm020lXOCTwbV6aTKhlEs01YfD3NGbtfO1zTQ1kYtksnQoV5NYlqFHzRo42BbvM0CuW4yNIVZSUpGwXqruzQ==;EndpointSuffix=core.windows.net
+
+ISS-KCSR-AzureWebJobsStorage:DefaultEndpointsProtocol=https;AccountName=kcsmmcsuatissussscussa;AccountKey=eiWfmXYvIwwEMPw/xj1W8GC8GwwWnGNtkt0igAo10vJ462zINK8DXPL7/jOPdE+P87EXB2bXFlJw9dvZFxZxxQ==;EndpointSuffix=core.windows.net
+
+ISS-Master-KCSMConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsm-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCSM-MASTER-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=q6jlbgnZxG1QsKVNxwmw;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection
+
+ISS-Master-KCSRConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsus-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCUS-MASTER-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=q6jlbgnZxG1QsKVNxwmw;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+ISS-RedisCacheConnectionString:KCS-MMCS-UAT-ISS-RDS-SSCUS.redis.cache.windows.net:6380,password=1+gqrt2Xnf70Le381nrb6PBw2vucckqK8ygMEQJ+vNk=,ssl=True,abortConnect=False
+
+ISS-RWB-KCSMConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsm-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCSM-RWB-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+ISS-RWB-KCSRConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsus-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCSUS-RWB-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=q6jlbgnZxG1QsKVNxwmw;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+ISS-Transaction-KCSMConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsm-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCSM-TRANSACTION-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+ISS-Transaction-KCSRConnectionString:Server=tcp:kcs-mmcs-uat-iss-kcsus-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-ISS-KCSUS-TRANSACTION-STR;Persist Security Info=False;User ID=kcsmmcsissuatadmin;Password=q6jlbgnZxG1QsKVNxwmw;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+
+
+KCSMConnectionString:Server=tcp:kcs-mmcs-uat-ots-kcsmx-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-OTS-KCSM-STR;Persist Security Info=False;User ID=kcsmmcsotsuatadmin;Password=ft$yd%bWedr#$72;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+KCSRConnectionString:Server=tcp:kcs-mmcs-uat-ots-kcsus-failover-gp.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-OTS-KCSUS-STR;Persist Security Info=False;User ID=kcsmmcsotsuatadmin;Password=dft$yd%bWedr#$72;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+OTS-MX-History-STR-CS:DefaultEndpointsProtocol=https;AccountName=mmcsuathistoryuxsscussa;AccountKey=Yj3szHTYaal2GTOCHguUeDdd4oV6EsEWbzeya1lhg3yXfsMY74Lh4WnmQ2ykFbQvrUVmAHsElrYBZHUJIsb3Sg==;EndpointSuffix=core.windows.net
+
+OTS-US-History-STR-CS:DefaultEndpointsProtocol=https;AccountName=mmcsuathistoryussscussa;AccountKey=UpEp7trjsi/Q+0A+pPv2rUGZqlcsFHpzVHH3xhBk9j4FolsyjVTLQ/Cy+T5VviIzr0EwXT28Gi20oOoqSBpbBg==;EndpointSuffix=core.windows.net
+
+OtsDataKey:qçÉ(«;Î@òY„8–~•b’_q×›}‹Ñõèá¦
+VˆŸô˜œ•×Øyû¡²´ßG‹ÒÄ¢J^P×%ãZŽ} E<laÖŒô©t&M$Èü£ëb>Ú¨Ž|»=54E„ŠLÿãI¯å› ¯ÒÕ!-¯7IðHÔ;÷ŽéâajŸ€ˆ™)U¢2 –„è»€^€Üaë•µþ(%ýñ“&™ø,½¹‹f™¢~…
+<4Ýe1Ù8Z,Eâ)þl0.ytÆòcíH˜ºÞkÈw˜ð{""rKCh§VY Ný=	ÃuÏ§äÍmä
+Platform-DBConnectionString:Server=tcp:kcs-mmcs-uat-mi01-fg.0d4e0f2d84de.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-CRTM-Platform-STR;Persist Security Info=False;User ID=RPMSUATUser;Password=UzSyMPqtDkwV8dbyC5Cb;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;																		Platform-DBConnectionString:Server=tcp:kcs-mmcs-uat-mi01-fg.0d4e0f2d84de.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-CRTM-Platform-STR;Persist Security Info=False;User ID=RPMSUATUser;Password=UzSyMPqtDkwV8dbyC5Cb;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+
+PrimarySBConnectionString:Endpoint=sb://kcs-mmcs-uat-ots-sbus-sscus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=AZGLZCRvV6lPbIvKkV7Bf1S7QaUKXOsxLsVnCsc4JRM=
+
+RedisCacheConnectionString:KCS-MMCS-UAT-OTS-RDS-SSCUS.redis.cache.windows.net:6380,password=7sVofAc8mitkFXTV6BOdY9up7vg26iXmabTrep+p92U=,ssl=True,abortConnect=False
+
+
+
+
+
+
+
+
+
+
+SecondarySBConnectionString:Endpoint=sb://kcs-mmcs-uat-ots-sbus-sscus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=AZGLZCRvV6lPbIvKkV7Bf1S7QaUKXOsxLsVnCsc4JRM=
+SendGridAPIKey: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																		SendGridAPIKey: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
+	 
+
+																																																 
+
+
+								 
+
+											  
+
+																										 
+
+
+
+Tenant-DBConnectionString:Server=tcp:kcs-mmcs-uat-mi01-fg.0d4e0f2d84de.database.windows.net,1433;Initial Catalog=KCS-MMCS-UAT-CRTM-Tenant-STR;Persist Security Info=False;User ID=RPMSUATUser;Password=UzSyMPqtDkwV8dbyC5Cb;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
+																														 
+
